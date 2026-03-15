@@ -5,7 +5,8 @@ como atividade avaliativa da disciplina de Desenvolvimento Web I — Fatec DSM.
 
 ## 🔗 Deploy
 
-> Link disponível em breve.
+hospedagem pelo Render
+https://atividade1-app-web-express.onrender.com/
 
 ## 📁 Estrutura do Projeto
 ```
